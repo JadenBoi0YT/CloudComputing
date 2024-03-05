@@ -1,2 +1,4 @@
 [submodule "<path>"]
 	ignore = untracked
+[submodule "C:\\Users\\jaden\\Documents\\CloudComp"]
+	ignore = untracked
